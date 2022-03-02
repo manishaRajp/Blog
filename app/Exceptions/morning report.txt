@@ -1,0 +1,17 @@
+
+Hinal Mevada
+MR :: 04/10/2021
+
+Following Module today i am working
+   1. admin panel
+      - about us update details form validation.
+   2. self testing
+       - I will test my admin-panel and try to solve the testing error
+
+
+Hinal Mevada
+MR :: 06/10/2021
+
+- Today i am working below points
+   - Repository Structure Perform on Crud Operation 
+       
